@@ -74,7 +74,7 @@ def sfc_select():
   sfc_str.set(file)
 
 root = tk.Tk()
-root.title('VC SNES Converter')
+root.title('VC SNES Converter v0.1')
 root.geometry('500x140')
 root.resizable(0, 0)
 
